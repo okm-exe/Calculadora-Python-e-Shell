@@ -1,4 +1,4 @@
-# calcpy
+# Calculadora Python via Shell Script
 
 ### Para executar localmente
 
