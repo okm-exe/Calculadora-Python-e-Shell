@@ -9,3 +9,7 @@
 **3** - Conceda permissão de execução: Use o comando chmod +x nomedoarquivo.sh para dar permissão de execução ao script.
 
 **4** - Execute o script: Digite bash calculadora.sh ou ./calculadora.sh para executar o script. 
+
+###Codigo Python
+
+O codigo Python desse repositório é uma simples calculadora que soma, subtrai, multiplica ou divide dois números e que o usuário digitar e mostra o resultado da conta quantas vezes for preciso, com a opção de sair a qualquer passo do programa e também confere se o número esta sendo divido pro 0.
