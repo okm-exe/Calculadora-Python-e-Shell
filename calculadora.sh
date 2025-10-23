@@ -1,3 +1,4 @@
 #!/bin/bash
-
-echo "10*10=100"
+echo "Iniciando a calculadora."
+python3 calculadora.py
+echo "Programa encerrado."
